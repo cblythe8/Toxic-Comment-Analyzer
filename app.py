@@ -16,7 +16,7 @@ st.set_page_config(
     layout="wide"
 )
 
-@st.cache(allow_output_mutation=True)
+@st.cache_data
 def load_data():
     """Load predictions data."""
     df = pd.read_csv('data/predictions.csv')
