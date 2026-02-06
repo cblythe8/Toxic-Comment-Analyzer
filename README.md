@@ -56,7 +56,7 @@ streamlit run app.py
 
 ## Live Demo
 
-[Coming soon]
+[View Dashboard](https://toxic-comment-analyzer-newyxkfu6fydsvg5jf8qnz.streamlit.app)
 
 ## Author
 
