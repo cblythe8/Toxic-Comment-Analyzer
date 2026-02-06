@@ -1,5 +1,6 @@
-# Data files (too large for git)
-data/
+# Data files (large raw data)
+data/*.pkl
+data/raw/
 
 # Python
 __pycache__/
